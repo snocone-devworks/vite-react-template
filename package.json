@@ -3,7 +3,7 @@
   "license": "MIT",
   "author": "Jeremy Hayworth",
   "engines": {
-    "node": ">=12"
+    "node": ">=16"
   },
   "scripts": {
     "dev": "vite",
